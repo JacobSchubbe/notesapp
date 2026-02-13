@@ -5,7 +5,7 @@ function App() {
         <div className="App">
             <header className="App-header">
                 <img src={reactLogo} className="logo react" alt="React logo" />
-                <h1>Hello from Amplify</h1>
+                <h1>Changing my text to something random</h1>
             </header>
         </div>
     );
